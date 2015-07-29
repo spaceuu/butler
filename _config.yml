@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           date
+relative_permalinks: true
+
+# Setup
+title:               서집사 블로그
+tagline:             '스페이스 유유 이야기'
+description:         'Space UU읠 살림을 맞고 있는 서집사의 유유한 이야기들'
+url:                 http://butler.spaceuu.kr
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              서집사
+  url:               http://butler.spaceuu.kr
+  # email:             
+
+# Custom vars
+version:             1.0.0
